@@ -1,11 +1,6 @@
-This official clone of Mini Profiler
+Fork of [MiniProfiler](https://github.com/SamSaffron/MiniProfiler). Modified the
+Ruby version to track outgoing HTTP Requests (API) instead of SQL.
 
-We accept patches and pull requests here. 
+ Useful if your application relies on API Requests instead of ActiveRecord. Use
+ at your own peril.
 
-See the home page at: http://miniprofiler.com
-
-Docs for the ruby version can be found here: https://github.com/SamSaffron/MiniProfiler/tree/master/Ruby
-
-Licensed under apache 2.0 license, see: http://www.apache.org/licenses/LICENSE-2.0
-
-For bugs and feature requests go to: http://community.miniprofiler.com
